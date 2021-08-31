@@ -17,5 +17,5 @@ See the file Contributing.md for more information on how you can contribute to t
 
 ## Further Book Information
 
-*[Book Newsletter](https://devrelbook.substack.com/) to recieve to author updates.
-*[Book Website](https://www.devrelbook.com/)
+* [Book Newsletter](https://devrelbook.substack.com/) to recieve to author updates.
+* [Book Website](https://www.devrelbook.com/)
