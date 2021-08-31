@@ -1,17 +1,18 @@
-﻿Freeware License, some rights reserved
+﻿This work is shared here under a CC:BY:SA 4.0 license, some rights reserved.
+https://creativecommons.org/licenses/by-sa/4.0/
 
 Copyright (c) 2021 Caroline Lewko, James Parton
 
 Permission is hereby granted, free of charge, to anyone obtaining a copy 
 of this software and associated documentation files (the "Software"), 
-to work with the Software within the limits of freeware distribution and fair use. 
+to work with the Software within the limits of CC:BY:SA distribution and fair use. 
 This includes the rights to use, copy, and modify the Software for personal use. 
 Users are also allowed and encouraged to submit corrections and modifications 
 to the Software for the benefit of other users.
 
 It is not allowed to reuse,  modify, or redistribute the Software for 
 commercial use in any way, or for a user’s educational materials such as books 
-or blog articles without prior permission from the copyright holder. 
+or blog articles without prior permission from the copyright holder.
 
 The above copyright notice and this permission notice need to be included 
 in all copies or substantial portions of the software.
