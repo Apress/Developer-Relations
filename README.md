@@ -11,9 +11,11 @@ Download the files as a zip using the green button, or clone the repository to y
 
 Release v1.0 corresponds to the code in the published book, without corrections or updates.
 
-## Contributions
+## Related Articles
 
-See the file Contributing.md for more information on how you can contribute to this repository.
+* [A Framework for Developer Relations](https://devrelbook.substack.com/p/a-framework-for-developer-relations)
+* [Developer First & Developer Plus Companies](https://devrelbook.substack.com/p/developer-first-and-developer-plus)
+* [The Developer Journey Map](https://devrelbook.substack.com/p/the-developer-journey-map)
 
 ## Further Book Information
 
