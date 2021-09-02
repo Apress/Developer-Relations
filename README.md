@@ -19,5 +19,5 @@ Release v1.0 corresponds to the code in the published book, without corrections 
 
 ## Further Book Information
 
-* [Book Newsletter](https://devrelbook.substack.com/) - Subscribe to recieve to author updates.
+* [Book Newsletter](https://devrelbook.substack.com/) - Subscribe to recieve author updates.
 * [Book Website](https://www.devrelbook.com/) - Find book ordering links, associated info, and more DevRel resources.
