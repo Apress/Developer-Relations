@@ -11,6 +11,21 @@ Download the files as a zip using the green button, or clone the repository to y
 
 Release v1.0 corresponds to the code in the published book, without corrections or updates.
 
+## Developer Relations Program Directory
+
+Have you ever been asked "How many DevRel Programs are there?"
+So have we, and we never had a good answer, or a reference to point to.
+We hope this Program Directory solves that for us all.
+
+The idea is to crowdsource a list of all the DevRel programs out there, which will be beneficial for a number of reasons, including to:
+
+* Describe the size of the DevRel community for the first time
+* Provide examples and data to aid investment into your programs
+* Forge new links between programs
+* Aid career growth
+
+[View, Add or Edit The Developer Relations Program Directory](https://www.devrelbook.com/devreldirectory)
+
 ## Related Articles
 
 * [A Framework for Developer Relations](https://devrelbook.substack.com/p/a-framework-for-developer-relations)
